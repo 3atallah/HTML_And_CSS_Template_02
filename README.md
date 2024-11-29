@@ -1,4 +1,4 @@
-# Leon By 3atallah Documentation
+# Leon By | 3atallah Documentation
 - This project is a creative and minimal agency web template named "Leon." It features sections for services, portfolio, about, and contact, designed for showcasing an agency's capabilities.
 
 ## Technologies Used:
